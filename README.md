@@ -1,0 +1,1 @@
+With this code, you can easily test the motors in the task mechanism of your Robot with the joystick. The code is used to control the Spark Max Motor Drivers. Don't forget to edit the Spark Max IDs according to your robot.
